@@ -1,5 +1,4 @@
-MACHINE LEARNING Y MACHINE LEARNING CUÁNTICO APLICADOS AL MANTENIMIENTO PREDICTIVO DE BOMBAS CENTRIFUGAS
-
+**MACHINE LEARNING Y MACHINE LEARNING CUÁNTICO APLICADOS AL MANTENIMIENTO PREDICTIVO DE BOMBAS CENTRIFUGAS**
 
 En una planta industrial un Paro de Planta No Programado es una situación en la que una máquina o proceso se detiene de manera inesperada debido a una falla o problema técnico. Son críticos porque generan costos adicionales, como pérdida de producción, costos de reparación, riesgos de seguridad y posibles impactos en la calidad del producto.
 
