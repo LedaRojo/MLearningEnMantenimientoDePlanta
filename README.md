@@ -11,5 +11,5 @@ Esto se traduce en el siguiente valor aproximado informado por la empresa: $50,0
 
 Ahora bien, si se reemplazan las bombas cuando no lo necesitan, tengo este costo informado: $10,000 por cada bomba mal clasificada.
 
-En el presente trabajo se desarrolló un modelo de mantenimiento predictivo basado en datos de salud y datos propensos a mantenimiento recopilados de dos bombas centrífugas diferentes, referentes a etapas saludables y propensas a mantenimiento, respectivamente, utilizando técnicas de IA.
+El presente es un modelo de mantenimiento predictivo basado en datos de salud y datos propensos a mantenimiento recopilados de dos bombas centrífugas diferentes, referentes a etapas saludables y propensas a mantenimiento, respectivamente, utilizando técnicas de IA.
 
